@@ -1,0 +1,44 @@
+{
+	"info": {
+		"id": "6abe447b000313ee19e3e21f",
+		"scavId": "6abe447b00065914e843ac02",
+		"aid": 1254443,
+		"username": "xyu",
+		"password": "",
+		"wipe": true,
+		"edition": "Standard"
+	},
+	"characters": {
+		"pmc": {},
+		"scav": {}
+	},
+	"vitality": {
+		"health": {
+			"Hydration": 0,
+			"Energy": 0,
+			"Temperature": 0,
+			"Head": 0,
+			"Chest": 0,
+			"Stomach": 0,
+			"LeftArm": 0,
+			"RightArm": 0,
+			"LeftLeg": 0,
+			"RightLeg": 0
+		},
+		"effects": {
+			"Head": {},
+			"Chest": {},
+			"Stomach": {},
+			"LeftArm": {},
+			"RightArm": {},
+			"LeftLeg": {},
+			"RightLeg": {}
+		}
+	},
+	"inraid": {
+		"location": "none",
+		"character": "none"
+	},
+	"insurance": [],
+	"dialogues": {}
+}

@@ -1,0 +1,22 @@
+[2026-10-01 20:28:44] ==== Launcher Started ====
+[2026-10-01 20:28:44][Warning] Launcher config not found
+[2026-10-01 20:28:44][Info] Creating launcher config: C:\Games\EscapeFromTarkov\user\launcher\config.json
+[2026-10-01 20:28:44][Info] Using launcher config at: C:\Games\EscapeFromTarkov\user\launcher\config.json
+[2026-10-01 20:28:44][Info] Using launcher config at: C:\Games\EscapeFromTarkov\user\launcher\config.json
+[2026-10-01 20:28:44][Info] Server URL is already set to default 'https://127.0.0.1:6969'
+[2026-10-01 20:28:44][Info] Game path is already set to default 'C:\Games\EscapeFromTarkov'
+[2026-10-01 20:30:53][Info] [Settings] Reseting game settings ...
+[2026-10-01 20:30:53][Info] [Settings] Game settings reset to live settings
+[2026-10-01 20:30:54][Info] Connected to server: https://127.0.0.1:6969 - SPT MatchingVersion: 3.11.1
+[2026-10-01 20:31:07][Info] Account Registered: xyu
+[2026-10-01 20:31:09][Info] >>> Launching Game
+[2026-10-01 20:31:09][Info] >>> Account: xyu
+[2026-10-01 20:31:09][Info] >>> Server : https://127.0.0.1:6969
+[2026-10-01 20:31:09][Info] [LaunchGame] spt-core.dll version: 3.11.1
+[2026-10-01 20:31:09][Info] [LaunchGame] Installed in Live :: NO
+[2026-10-01 20:31:09][Info] [LaunchGame] Setup Game Files ...
+[2026-10-01 20:31:09][Info] [LaunchGame] Game Validation   :: OK
+[2026-10-01 20:31:09][Info] [LaunchGame] Wipe profile requested
+[2026-10-01 20:31:09][Info] [LaunchGame] Valid Game Path   :: OK
+[2026-10-01 20:31:09][Info] [LaunchGame] Applying Patch    :: OK
+[2026-10-01 20:31:09][Info] [LaunchGame] Game process started
